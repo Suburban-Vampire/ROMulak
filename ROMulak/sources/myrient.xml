@@ -1,0 +1,5 @@
+<download_types>
+	<ftp>ftp://anonymous:anonymous@ftp.myrient.erista.me:21/files/</ftp>
+	<rsync>rsync://rsync.myrient.erista.me/files/</rsync>
+	<http>https://myrient.erista.me/files/</http>
+</download_types>

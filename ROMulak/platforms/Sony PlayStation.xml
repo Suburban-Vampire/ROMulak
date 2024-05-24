@@ -1,0 +1,15 @@
+<platform>
+	<container_ext>zip</container_ext>
+	<rom_ext>cue</rom_ext>
+	<disc_handling>true</disc_handling>
+	<compress_to_chd>true</compress_to_chd>
+	<set_source>Redump</set_source>
+	<full_set_size>3,017 GB</full_set_size>
+	<full_set_filecount>10721</full_set_filecount>
+	<list_filename>Redump-Sony PlayStation.txt</list_filename>
+	<filtered_set_size>605 GB</filtered_set_size>
+	<filtered_set_filecount>1966</filtered_set_filecount>
+	<downloads>
+		<myrient>Redump/Sony - PlayStation</myrient>
+	</downloads>
+</platform>

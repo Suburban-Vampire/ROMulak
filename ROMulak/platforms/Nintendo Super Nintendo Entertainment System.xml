@@ -1,0 +1,15 @@
+<platform>
+	<container_ext>zip</container_ext>
+	<rom_ext>sfc</rom_ext>
+	<disc_handling>false</disc_handling>
+	<compress_to_chd>false</compress_to_chd>
+	<set_source>No Intro</set_source>
+	<full_set_size>3.49 GB</full_set_size>
+	<full_set_filecount>4117</full_set_filecount>
+	<list_filename>No Intro-Super Nintendo Entertainment System.txt</list_filename>
+	<filtered_set_size>702 MB</filtered_set_size>
+	<filtered_set_filecount>859</filtered_set_filecount>
+	<downloads>
+		<myrient>Redump/Sony - PlayStation</myrient>
+	</downloads>
+</platform>

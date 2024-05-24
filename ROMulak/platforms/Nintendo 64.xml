@@ -1,0 +1,15 @@
+<platform>
+	<container_ext>zip</container_ext>
+	<rom_ext>z64</rom_ext>
+	<disc_handling>false</disc_handling>
+	<compress_to_chd>false</compress_to_chd>
+	<set_source>No Intro</set_source>
+	<full_set_size>14.0 GB</full_set_size>
+	<full_set_filecount>1129</full_set_filecount>
+	<list_filename>No Intro-Nintendo 64.txt</list_filename>
+	<filtered_set_size>4.65 GB</filtered_set_size>
+	<filtered_set_filecount>306</filtered_set_filecount>
+	<downloads>
+		<myrient>No-Intro/Nintendo - Nintendo 64 (BigEndian)</myrient>
+	</downloads>
+</platform>
